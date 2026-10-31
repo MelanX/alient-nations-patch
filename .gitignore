@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.pyc
+*.o
+*.elf
+# never commit game files
+*.exe
+*.gd
+*.orig
